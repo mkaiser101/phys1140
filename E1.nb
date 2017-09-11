@@ -1,0 +1,87 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2304,         77]
+NotebookOptionsPosition[      1017,         37]
+NotebookOutlinePosition[      2407,         79]
+CellTagsIndexPosition[      2364,         76]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ StyleBox["E1: Introduction to Circuts\n",
+  FontColor->GrayLevel[0]],
+ StyleBox["Matthew Kaiser\n",
+  FontSize->14,
+  FontColor->GrayLevel[0]],
+ StyleBox["Summary of Experiment:",
+  FontSize->14,
+  FontWeight->"Bold",
+  FontColor->GrayLevel[0]],
+ StyleBox["\n",
+  FontSize->14,
+  FontColor->GrayLevel[0]]
+}], "Title",
+ CellChangeTimes->{{3.6514353574491277`*^9, 3.6514353820247974`*^9}, {
+  3.651435468073557*^9, 3.6514354924271865`*^9}}]
+},
+WindowSize->{759, 835},
+WindowMargins->{{Automatic, 572}, {123, Automatic}},
+PrintingStartingPageNumber->1,
+PageHeaders->{{
+   Cell[
+    TextData[{
+      StyleBox[
+       CounterBox["Page"], "PageNumber"], "   ", "|", " ", 
+      StyleBox[
+       ValueBox["FileName"], "Header"]}], "Header", 
+    CellMargins -> {{0, Inherited}, {Inherited, Inherited}}], None, 
+   Cell[
+    TextData[{
+     "E1", ":", " ", "Introduction", " ", "to", " ", "Circuts", ",", " ", 
+      "Matthew", " ", "Kaiser", ",", " ", "Jon", " ", "Young", ",", " ", 
+      "Sect", ".419"}], "Header", 
+    CellMargins -> {{Inherited, 0}, {Inherited, Inherited}}]}, {None, None, 
+   Cell[
+    TextData[{
+     "E1", ":", " ", "Introduction", " ", "to", " ", "Circuts", ",", " ", 
+      "Matthew", " ", "Kaiser", ",", " ", "Jon", " ", "Young"}], "Header", 
+    CellMargins -> {{Inherited, 0}, {Inherited, Inherited}}]}},
+PageFooters->{{None, None, None}, {None, None, None}},
+PageHeaderLines->{False, False},
+PageFooterLines->{False, False},
+PrintingOptions->{"FacingPages"->False,
+"FirstPageFace"->Right,
+"FirstPageFooter"->False,
+"FirstPageHeader"->True},
+FrontEndVersion->"10.2 for Microsoft Windows (64-bit) (July 29, 2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 455, 15, 176, "Title"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
